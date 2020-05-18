@@ -1,0 +1,13 @@
+.Header{
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    /* text-align: center; */
+    padding: 20px;
+}
+
+.Header img{
+    background-color: white;
+    height: 34px;
+    margin: 0px 10px;
+}
