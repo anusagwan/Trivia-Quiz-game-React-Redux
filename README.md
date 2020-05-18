@@ -4,3 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1.git clone the repo
 2.to downlaod dependecies do npm i
 3. then start the npm start 
+
+The project is run on http://localhost:3000
